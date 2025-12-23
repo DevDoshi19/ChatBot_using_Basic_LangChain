@@ -165,10 +165,18 @@ B.Tech | AI / ML | LangChain | Streamlit | Generative AI
 </div>
 
 ---
+## 🚀 Demo
+
+
+https://github.com/user-attachments/assets/6d8c7f3a-f731-4fb2-8406-1e566a351270
+
+
+---
 
 ⭐ If you found this useful, consider starring the repository.
 
 ```
 Thank you for reading
 ```
+
 
