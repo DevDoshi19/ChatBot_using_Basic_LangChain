@@ -71,8 +71,7 @@
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/DevDoshi19/ChatBot_using_Basic_LangChain.git
 ````
 
 ---
@@ -172,3 +171,4 @@ B.Tech | AI / ML | LangChain | Streamlit | Generative AI
 ```
 Thank you for reading
 ```
+
